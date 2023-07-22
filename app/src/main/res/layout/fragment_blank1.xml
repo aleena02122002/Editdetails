@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context=".BlankFragment1">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:rowCount="8">
+
+            <ImageView
+                android:layout_width="134dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:scaleType="fitXY"
+                android:layout_columnWeight="1"
+                android:src="@drawable/a"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:scaleType="fitXY"
+                android:layout_columnWeight="1"
+                android:src="@drawable/b"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:scaleType="fitXY"
+                android:layout_columnWeight="1"
+                android:src="@drawable/c"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/d"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/e"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/f"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/g"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/h"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/i"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/j"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/k"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/l"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/m"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/n"
+                tools:ignore="UnusedAttribute" />
+
+            <ImageView
+                android:layout_width="205dp"
+                android:layout_height="130dp"
+                android:layout_rowWeight="1"
+                android:layout_columnWeight="1"
+                android:scaleType="fitXY"
+                android:src="@drawable/o"
+                tools:ignore="UnusedAttribute" />
+
+
+        </GridLayout>
+
+    </ScrollView>
+
+</LinearLayout>
